@@ -27,7 +27,7 @@ Please include the requested information listed below (as much as you can provid
   * Impact of the issue, including how an attacker might exploit the issue
 
 This information will help us triage your report more quickly..
-
+1
 If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program](https://microsoft.com/msrc/bounty) page for more details about our active programs.
 
 ## Preferred Languages
