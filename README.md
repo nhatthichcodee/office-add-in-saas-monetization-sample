@@ -89,4 +89,4 @@ To work around this technical limitation, the OfferID is hardcoded in the AzureA
 
 ## Copyright
 
-Copyright (c) 2020 Microsoft Corporation. All rights reserved.
+Copyright (c) 2020 Microsoft Corporation. All rights reserved...
