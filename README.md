@@ -70,7 +70,7 @@ This section links to the various README files associated with the projects incl
 
 ## Appendix
 
-### UX / API Mapping
+# UX / API Mapping
 
 This matrix describes the UI actions and how they correlate to different API calls.
 
