@@ -68,6 +68,7 @@ This section links to the various README files associated with the projects incl
 - [SPFx](MonetizationCodeSample/SPFx/README.md)
 
 ## Appendix
+
 # UX / API Mapping
 
 This matrix describes the UI actions and how they correlate to different API calls.
