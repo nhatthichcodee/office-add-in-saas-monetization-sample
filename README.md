@@ -87,5 +87,4 @@ In all of the other Add-ins in this sample, we get the OfferID from the SaaSOffe
 To work around this technical limitation, the OfferID is hardcoded in the AzureADAuthController.cs class in the Provider-Hosted Add-in, and it is hardcoded in the app.js file in the SharePoint-Hosted Add-in.
 
 ## Copyright
-
 Copyright (c) 2020 Microsoft Corporation. All rights reserved.
