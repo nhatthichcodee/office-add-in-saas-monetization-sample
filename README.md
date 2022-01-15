@@ -19,7 +19,6 @@ description: "Learn how to create a simple license management system to manage A
 This code sample demonstrates how Microsoft ISVs can create a simple license management system to manage Add-ins sold in Microsoft AppSource. This code sample package includes a Microsoft AppSource mock web app, a SaaS sample, a Teams Tab app, a Teams Bot(C#) app, a Teams Bot(JavaScript) app, a SharePoint Framework (SPFx) add-in, Outlook, Word, Excel, and PowerPoint Add-ins, and a licensing management tool.
 
 # Installation and configuration
-
 Follow the instructions in the deployment guides to install and configure the sample.
 
 - [Sample deployment guide](Deployment/DeploymentGuide.MD)
