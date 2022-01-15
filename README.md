@@ -35,7 +35,6 @@ Follow the instructions in the deployment guides to install and configure the sa
   - [SharePoint-Hosted add-in deployment guide](Deployment/AddIns/SharePointHostedAddInDeploymentGuide.md)
 
 # Testing
-
 Follow the instructions in the test guide to test the different use cases.
 
 - [Test guide](Test/TestGuide.md)
