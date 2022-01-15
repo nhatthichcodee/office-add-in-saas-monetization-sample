@@ -1,4 +1,3 @@
-
 page_type: sample
 products:
 - office-outlook
