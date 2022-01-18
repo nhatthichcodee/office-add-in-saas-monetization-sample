@@ -1,6 +1,6 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
-
+// Khá là hay
 namespace OutlookAddInWeb
 {
     using Microsoft.AspNetCore.Builder;
