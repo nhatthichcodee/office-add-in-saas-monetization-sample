@@ -11,7 +11,7 @@ extensions:
   - Add-ins
   createdDate: 2/14/2020 12:00:00 PM
 description: "Learn how to create a simple license management system to manage Add-ins sold in Microsoft AppSource."
----
+---...
 # Introduction
 
 This code sample demonstrates how Microsoft ISVs can create a simple license management system to manage Add-ins sold in Microsoft AppSource. This code sample package includes a Microsoft AppSource mock web app, a SaaS sample, a Teams Tab app, a Teams Bot(C#) app, a Teams Bot(JavaScript) app, a SharePoint Framework (SPFx) add-in, Outlook, Word, Excel, and PowerPoint Add-ins, and a licensing management tool.
