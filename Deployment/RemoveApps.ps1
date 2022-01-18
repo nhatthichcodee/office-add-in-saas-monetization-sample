@@ -15,3 +15,5 @@ foreach ($app in $json.apps)
         Write-Host "Remove $($app.bodyParameter.displayName)."
     }
 }
+
+//Comment
